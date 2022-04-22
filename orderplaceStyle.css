@@ -1,0 +1,41 @@
+.orderimage
+{
+    text-align: center;
+    margin-top: 100px;
+}
+.ordertext
+{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+    font-weight: 60;
+    color: green;
+}
+
+.orderplace
+{
+    animation: orderdone 2s linear forwards;
+}
+@keyframes orderdone
+{
+    0%
+    {
+        opacity: 0;
+    }
+    25%
+    {
+        opacity: 0.25;
+    }
+    50%
+    {
+        opacity: 0.5;
+    }
+    75%
+    {
+        opacity: 0.75;
+    }
+    100%
+    {
+        opacity: 1;
+    }
+}

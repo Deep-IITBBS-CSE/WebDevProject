@@ -1,0 +1,196 @@
+body
+{
+    animation: dbody 0.5s linear forwards;
+}
+.header
+{
+    /* border: 2px solid red; */
+    background-color: rgba(235, 229, 229, 0.822);
+}
+.header .row .col-md-2 .logo ,.tag
+{
+    font-size: 40px;
+    font-weight: 150;
+    margin-left: 20px;
+}
+.navbar
+{
+    background-color: rgba(235, 229, 229, 0.822) !important;
+    float: right;
+}
+.brand
+{
+    margin-top: 90px;
+    text-align: center;
+    padding-left: 42%;
+}
+.brandname
+{
+    width:20%;
+    font-size: 50px;
+    /* border: 2px solid red; */
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: black;
+    color: white;
+    font-weight: 60;
+    box-shadow: 3px 3px 20px 2px rgb(10, 42, 187);
+}
+.brandname2
+{
+    width:24%;
+    font-size: 50px;
+    /* border: 2px solid red; */
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: black;
+    color: white;
+    font-weight: 60;
+    box-shadow: 3px 3px 20px 2px rgb(10, 42, 187);
+}
+.brandname3
+{
+    width:35%;
+    font-size: 50px;
+    /* border: 2px solid red; */
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: black;
+    color: white;
+    font-weight: 60;
+    box-shadow: 3px 3px 20px 2px rgb(10, 42, 187);
+}
+.brandname4
+{
+    width:23%;
+    font-size: 50px;
+    /* border: 2px solid red; */
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: black;
+    color: white;
+    font-weight: 60;
+    box-shadow: 3px 3px 20px 2px rgb(10, 42, 187);
+}
+.brandname6
+{
+    width:20%;
+    font-size: 50px;
+    /* border: 2px solid red; */
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: black;
+    color: white;
+    font-weight: 60;
+    box-shadow: 3px 3px 20px 2px rgb(10, 42, 187);
+}
+.brandname10
+{
+    width:23%;
+    font-size: 50px;
+    /* border: 2px solid red; */
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: black;
+    color: white;
+    font-weight: 60;
+    box-shadow: 3px 3px 20px 2px rgb(10, 42, 187);
+}
+.brandname11, .brandname12
+{
+    width:35%;
+    font-size: 50px;
+    /* border: 2px solid red; */
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: black;
+    color: white;
+    font-weight: 60;
+    box-shadow: 3px 3px 20px 2px rgb(10, 42, 187);
+}
+
+
+.ditems .row .col-md-2
+{
+    margin-top: 40px;
+    /* border: 2px solid red; */
+    margin-left: 40px;
+    height: 400px;
+    width: 250px;
+}
+.pimage
+{
+    padding-top: 20px;
+}
+.pname
+{
+    margin-top: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+.disprice
+{
+    margin-top: 10px;
+    font-size: 30px;
+    color: green;
+    text-align: center;
+}
+.acprice
+{
+    margin-top: 27px;
+    margin-left: 10px;
+    color: red;
+    text-align: center;
+}
+.dfooter
+{
+    background-color: rgb(119, 117, 117);
+    padding: 30px;
+    margin-top: 30px;
+}
+.dfooter .row .col-md-6
+{
+    text-align: center;
+}
+.foothead
+{
+    font-weight: 800;
+    font-size: 20px;
+}
+.footicon
+{
+    font-size: 30px;
+}
+a
+{
+    color: black;
+}
+a:hover
+{
+    color: black;
+}
+.dcost
+{
+    font-size: 30px;
+    font-weight: 60;
+}
+.dpay
+{
+    font-size: 30px;
+    font-weight: 150;
+}
+button
+{
+    border: none !important;
+}
+@keyframes dbody
+{
+    0%
+    {
+        opacity: 0;
+    }
+    100%
+    {
+        opacity: 1;
+    }
+}
